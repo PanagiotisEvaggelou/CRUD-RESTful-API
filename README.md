@@ -1,6 +1,6 @@
 # RESTful CRUD API with Spring Boot, Maven, JPA, and MySQL
 
-This project is a simple example of a RESTful CRUD API built using Spring Boot, Maven, JPA, and MySQL. The API is designed to perform basic CRUD (Create, Read, Update, Delete) operations on a sample resource.
+This project is a simple demo of a RESTful CRUD API built using Spring Boot, Maven, JPA, and MySQL. The API is designed to perform basic CRUD (Create, Read, Update, Delete) operations on a sample resource.
 
 ## Project Setup
 
