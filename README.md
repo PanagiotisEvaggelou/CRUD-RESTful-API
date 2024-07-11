@@ -11,7 +11,7 @@ This project is a simple demo of a RESTful CRUD API built using Spring Boot, Mav
    - Import the project using the `pom.xml` file.
 
 3. **Run the Application**:
-   - Run the main application class `DemoApiApplication`.
+   - Run the main application class `DemoApplication`.
    - The application will start on port `8080`.
 
 ## API Endpoints
